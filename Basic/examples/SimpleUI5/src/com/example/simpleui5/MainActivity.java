@@ -36,8 +36,8 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 
-		Parse.initialize(this, "hCJ3YM593qsoFGt3CNVa0XRECus3Vbrz56HdyUvD",
-				"WRUIsQkcyj0fgv8inoF6hSeo0rftbr2WTKPWLE09");
+		Parse.initialize(this, "BEfHGc1EGoiA6ZKLhLOPS5fdiXlbVBSjc7R12B8u",
+				"Xr9rDHfjwabLi3mJ22F28YsAjtYgS0uZMWII7cPx");
 
 		setContentView(R.layout.simple_ui);
 
